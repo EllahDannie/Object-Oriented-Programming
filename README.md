@@ -8,3 +8,4 @@ This repository contains a brief summary and code examples for Object-Oriented P
 2. **class_and_object.py**
 3. **constructors_and_destructors.py**
 
+**Language used: Python**
