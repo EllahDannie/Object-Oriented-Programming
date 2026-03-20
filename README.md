@@ -9,3 +9,6 @@ This repository contains a brief summary and code examples for Object-Oriented P
 3. **constructors_and_destructors.py**
 
 **Language used: Python**
+
+## Author
+Daniellah Jerotich (Github username: EllahDannie)
