@@ -11,7 +11,7 @@ This repository contains a  summary and code examples for Object-Oriented Progra
 5. **encapsulation_and_data_hiding.py**
 6. **encapsulation_activity.py**
 7. **inheritance.py**
-8. **inheritance_assignment**
+8. **inheritance_assignment.py**
 
 **Language used: Python**
 
